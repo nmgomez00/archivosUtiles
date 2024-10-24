@@ -1,0 +1,14 @@
+C:\Users\nmg10\source\repos\SistemaPractica\SistemaPractica\bin\Debug\net8.0\SistemaPractica.exe
+C:\Users\nmg10\source\repos\SistemaPractica\SistemaPractica\bin\Debug\net8.0\SistemaPractica.deps.json
+C:\Users\nmg10\source\repos\SistemaPractica\SistemaPractica\bin\Debug\net8.0\SistemaPractica.runtimeconfig.json
+C:\Users\nmg10\source\repos\SistemaPractica\SistemaPractica\bin\Debug\net8.0\SistemaPractica.dll
+C:\Users\nmg10\source\repos\SistemaPractica\SistemaPractica\bin\Debug\net8.0\SistemaPractica.pdb
+C:\Users\nmg10\source\repos\SistemaPractica\SistemaPractica\obj\Debug\net8.0\SistemaPractica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmg10\source\repos\SistemaPractica\SistemaPractica\obj\Debug\net8.0\SistemaPractica.AssemblyInfoInputs.cache
+C:\Users\nmg10\source\repos\SistemaPractica\SistemaPractica\obj\Debug\net8.0\SistemaPractica.AssemblyInfo.cs
+C:\Users\nmg10\source\repos\SistemaPractica\SistemaPractica\obj\Debug\net8.0\SistemaPractica.csproj.CoreCompileInputs.cache
+C:\Users\nmg10\source\repos\SistemaPractica\SistemaPractica\obj\Debug\net8.0\SistemaPractica.dll
+C:\Users\nmg10\source\repos\SistemaPractica\SistemaPractica\obj\Debug\net8.0\refint\SistemaPractica.dll
+C:\Users\nmg10\source\repos\SistemaPractica\SistemaPractica\obj\Debug\net8.0\SistemaPractica.pdb
+C:\Users\nmg10\source\repos\SistemaPractica\SistemaPractica\obj\Debug\net8.0\SistemaPractica.genruntimeconfig.cache
+C:\Users\nmg10\source\repos\SistemaPractica\SistemaPractica\obj\Debug\net8.0\ref\SistemaPractica.dll
